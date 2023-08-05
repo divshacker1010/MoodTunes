@@ -50,5 +50,5 @@ https://emotion-detection-darm.onrender.com
 
 ## Contributors
 
-Divyansh Sharma
+Divyansh Sharma,
 Jai Mehrotra
